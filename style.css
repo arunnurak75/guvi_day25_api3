@@ -1,0 +1,15 @@
+.edit {
+    background-color: white;
+    padding: 1em;
+    margin: 1em;
+}
+
+.fetch {
+    background-color: rgb(238, 70, 70);
+}
+
+.container {
+    background-color: rgb(218, 67, 197);
+    font-family: 'Times New Roman', Times, serif;
+
+}
